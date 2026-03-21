@@ -1,2 +1,2 @@
-# analysis_Galaxus
-This is designed to practice scraping techniques. I am using information on galaxus.ch
+# Hackathon @ EY
+This is a repository dedicated to Hackathon hosted by EY Zurich on 21.03.2026.
